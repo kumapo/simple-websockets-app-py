@@ -1,0 +1,16 @@
+{
+  "name": "simple-websockets-app-py",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "wscat": "^2.2.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "wscat": "wscat"
+  },
+  "author": "",
+  "license": "MIT"
+}
